@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @broplswork
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in proxies
+- 🌱 I’m currently learning php python html
+- 💞️ I’m looking to collaborate on Rival proxy
+- 📫 How to reach me Join Rival proxy discord gonna be on the github or
+- lamenyada@gmail.com
 
 <!---
 broplswork/broplswork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
