@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @broplswork
-- 👀 I’m interested in proxies
-- 🌱 I’m currently learning php python html
+- 👀 I’m interested in proxies and cool hacks
+- 🌱 I’m currently learning php python Rust
 - 💞️ I’m looking to collaborate on Rival proxy
 - 📫 How to reach me Join Rival proxy discord gonna be on the github or
 - lamenyada@gmail.com
